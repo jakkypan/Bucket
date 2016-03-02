@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Learn.iml" filepath="$PROJECT_DIR$/Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagecache/imagecache.iml" filepath="$PROJECT_DIR$/imagecache/imagecache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinnedview/pinnedview.iml" filepath="$PROJECT_DIR$/pinnedview/pinnedview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycleview/recycleview.iml" filepath="$PROJECT_DIR$/recycleview/recycleview.iml" />
+    </modules>
+  </component>
+</project>
