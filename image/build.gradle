@@ -23,19 +23,12 @@ android {
 
     sourceSets {
         main {
-            jniLibs.srcDirs = ['libs']
-        }
-        forTest {
-            manifest.srcFile 'src/forTest/AndroidManifest.xml'
-            res.srcDir 'src/forTest/res'
-        }
-        map {
-            res.srcDir 'src/map/res'
+            assets.srcDirs = ['assets']
         }
     }
 }
 
 dependencies {
-    compile 'com.android.support:appcompat-v7:23.+'
+    compile 'com.android.support:appcompat-v7:23.1.0'
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
