@@ -8,3 +8,6 @@
  * safecrash：捕获异常，而不直接crash
  * acra：ACRA库的使用，实现错误的上报
  * anr：anrwatchdog库的使用，实现对anr的捕获
+* **image**：
+ * download：提供了各种图片文件下载的方式，如aeests、file、http、resource
+ * display：加载后的图片的展示，如圆角等（不过这个比较简单）
