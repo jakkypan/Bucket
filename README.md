@@ -11,3 +11,11 @@
 * **image**：
  * download：提供了各种图片文件下载的方式，如aeests、file、http、resource
  * display：加载后的图片的展示，如圆角等（不过这个比较简单）
+* material: Android Design Support Library的学习，包括如下：
+ * TextInputLayout
+ * FloatingActionButton
+ * TabLayout
+ * Snackbar
+ * CoordinatorLayout
+ * NavigationView（见@cheesesquare）
+ * Collapsing Toolbar（见@cheesesquare）
