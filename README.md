@@ -19,3 +19,7 @@
  * CoordinatorLayout
  * NavigationView（见@cheesesquare）
  * Collapsing Toolbar（见@cheesesquare）
+* **percent**：百分比的方式布局的demo
+ * PercentRelativeLayout
+ * PercentFrameLayout
+ * PercentLinearLayout：自实现，系统未提供线性的布局
