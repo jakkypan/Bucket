@@ -1,1 +1,1 @@
-include ':app', ':imagecache', ':recycleview', ':pinnedview', ':image', ':crashpick'
+include ':app', ':imagecache', ':recycleview', ':pinnedview', ':image', ':crashpick', ':material'

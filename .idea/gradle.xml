@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/crashpick" />
             <option value="$PROJECT_DIR$/image" />
             <option value="$PROJECT_DIR$/imagecache" />
+            <option value="$PROJECT_DIR$/material" />
             <option value="$PROJECT_DIR$/pinnedview" />
             <option value="$PROJECT_DIR$/recycleview" />
           </set>

@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/crashpick/crashpick.iml" filepath="$PROJECT_DIR$/crashpick/crashpick.iml" />
       <module fileurl="file://$PROJECT_DIR$/image/image.iml" filepath="$PROJECT_DIR$/image/image.iml" />
       <module fileurl="file://$PROJECT_DIR$/imagecache/imagecache.iml" filepath="$PROJECT_DIR$/imagecache/imagecache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material/material.iml" filepath="$PROJECT_DIR$/material/material.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinnedview/pinnedview.iml" filepath="$PROJECT_DIR$/pinnedview/pinnedview.iml" />
       <module fileurl="file://$PROJECT_DIR$/recycleview/recycleview.iml" filepath="$PROJECT_DIR$/recycleview/recycleview.iml" />
     </modules>
