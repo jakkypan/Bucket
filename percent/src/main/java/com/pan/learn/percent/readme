@@ -1,0 +1,13 @@
+两种布局供大家使用：
+PercentRelativeLayout、PercentFrameLayout，通过名字就可以看出，这是继承自FrameLayout和RelativeLayout两个容器类；
+
+支持的属性有：
+
+layout_widthPercent、layout_heightPercent、
+layout_marginPercent、layout_marginLeftPercent、
+layout_marginTopPercent、layout_marginRightPercent、
+layout_marginBottomPercent、layout_marginStartPercent、layout_marginEndPercent。
+
+可以看到支持宽高，以及margin。
+
+也就是说，大家只要在开发过程中使用PercentRelativeLayout、PercentFrameLayout替换FrameLayout、RelativeLayout即可。
