@@ -3,11 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Learn.iml" filepath="$PROJECT_DIR$/Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classloader/classloader.iml" filepath="$PROJECT_DIR$/classloader/classloader.iml" />
       <module fileurl="file://$PROJECT_DIR$/crashpick/crashpick.iml" filepath="$PROJECT_DIR$/crashpick/crashpick.iml" />
       <module fileurl="file://$PROJECT_DIR$/image/image.iml" filepath="$PROJECT_DIR$/image/image.iml" />
       <module fileurl="file://$PROJECT_DIR$/imagecache/imagecache.iml" filepath="$PROJECT_DIR$/imagecache/imagecache.iml" />
       <module fileurl="file://$PROJECT_DIR$/material/material.iml" filepath="$PROJECT_DIR$/material/material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multidex/multidex.iml" filepath="$PROJECT_DIR$/multidex/multidex.iml" />
       <module fileurl="file://$PROJECT_DIR$/percent/percent.iml" filepath="$PROJECT_DIR$/percent/percent.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinnedview/pinnedview.iml" filepath="$PROJECT_DIR$/pinnedview/pinnedview.iml" />
       <module fileurl="file://$PROJECT_DIR$/recycleview/recycleview.iml" filepath="$PROJECT_DIR$/recycleview/recycleview.iml" />
