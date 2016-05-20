@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 Baidu, Inc. All Rights Reserved.
+  -->
+<litepal>
+    <dbname value="demo" ></dbname>
+
+    <version value="2" ></version>
+
+    <list>
+        <mapping class="com.pan.learn.database.litepal.New"></mapping>
+        <mapping class="com.pan.learn.database.litepal.Comment"></mapping>
+    </list>
+</litepal>
