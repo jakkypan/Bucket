@@ -25,7 +25,7 @@
  * PercentLinearLayout：自实现，系统未提供线性的布局
 * **classloader**：自定义ClassLoader的实现
 * **JNI**：jni编程的实践，简单的一个现实字符串和一个数学加减运算的功能
-* **DATABSE**：
+* **DATABSE**：android数据库相关
  * sqlite3
  * greenDao
  * litepal
